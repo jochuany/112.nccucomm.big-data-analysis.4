@@ -321,6 +321,10 @@
         display: none;
     }
 
+    .headerbar {
+        width: 90%;
+    }
+
     .ham-menu {
         display: none;
     }
@@ -347,7 +351,7 @@
     }
 
     .logo {
-        width: 50%;
+        width: 30%;
     }
 
     .ham {
@@ -404,5 +408,13 @@
     .topic-link a {
         width: 100%;
         margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+
+    .logo {
+        width: 50%;
     }
 }
