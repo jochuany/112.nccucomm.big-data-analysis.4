@@ -6,6 +6,11 @@
     font-family: 'Noto Sans TC', sans-serif;
 }
 
+*::selection {
+    background-color: rgb(255, 145, 77);
+    color: #fff;
+}
+
 .header {
     background-color: #fff;
     border-bottom: #515151 solid 1px;
