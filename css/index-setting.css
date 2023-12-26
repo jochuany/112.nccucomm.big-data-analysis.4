@@ -160,13 +160,14 @@
 
 .member {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin: 30px 0px;
 }
 
 .member .photo {
     width: 30%;
+    margin-right: 20px;
 }
 
 .member img {
@@ -174,7 +175,8 @@
 }
 
 .member .about-name {
-    width: 60%;
+    width: 30%;
+    margin-left: 20px;
 }
 
 .about-name h2 {
