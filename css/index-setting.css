@@ -4,6 +4,7 @@
     box-sizing: border-box;
     transition: all .5s 0s ease;
     font-family: 'Noto Sans TC', sans-serif;
+    letter-spacing: 1.5px;
 }
 
 *::selection {
@@ -137,6 +138,8 @@
 .banner-index h1 {
     color: #fff;
     font-size: 45px;
+    text-shadow: 1.5px 1.5px 5px rgba(0, 0, 0, 0.5);
+    text-align: justify;
 }
 
 

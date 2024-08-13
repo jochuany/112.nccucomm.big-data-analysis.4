@@ -4,6 +4,7 @@
     box-sizing: border-box;
     transition: all .5s 0s ease;
     font-family: 'Noto Sans TC', sans-serif;
+    letter-spacing: 1.5px;
 }
 
 *::selection {
@@ -138,6 +139,7 @@
     color: #515151;
     font-size: 20px;
     margin-bottom: 10px;
+    text-align: justify;
 }
 
 .date {
